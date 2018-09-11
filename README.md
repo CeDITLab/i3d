@@ -1,13 +1,19 @@
-# i3d
+# 4R Prusa I3
 
-En UNLaM3D estamos trabajando en el armado de un laboratorio de prototipado 3d para acercar la tecnologia a la gente. Nos interesa particularmente enfocarnos en el uso responsable de la tecnologia.
-En estos momentos estamos en los inicios del Lab, construyendo las primeras impresoras y trabajando en los primeros proyectos.
+La impresora 4R (Reducir-Reutilizar-Reciclar-Recuperar) es nuestra primera implementacion de Rep Rap. 
 
-En esta primera etapa nos vas a encontrar tratando de :
+Esta pensada para:
 
-Armar impresoras de bajo costo al alcance de la gente de nuestro barrio, (y por supuesto que imprimarn muy bien). 
-Enfocarnos en darle un sentido sustentable a esta tecnologia. Usando materiales reciclados o sumandonos a iniciativas contra el uso del plastico.
-Dando cursos a colegios o alumnos con el fin de que mas personas conozcan el potencial de esta tecnologia.
+  - Poder construirla con materiales que pueden conseguirse en La Matanza.
+  - Para que cualquier alumno de la Universidad pueda tener un primer acceso a la impresion 3d, con una impresora de buenas prestaciones.
+  - Mostrar el uso sustentable de la tecnologia.
+  
+
+
+
+
+
+
 
 
 
